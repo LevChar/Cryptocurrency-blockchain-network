@@ -5,10 +5,15 @@ The program's architecture is based on a shared object library (.SO),
 which implements the main data structure used by all of the sub-programs
 (LinkedList).
 
+
 It's made out of 4 sub-programs managing a database of Bitcoin blocks:
+
 (1)loading (from WEB source) the data to the db.
+
 (2)displaying the data from the db, with the ability to execute searches.
+
 (3)exporting data to a .csv file.
+
 
 It was written as part of an assignment in LINUX embedded course.
 
