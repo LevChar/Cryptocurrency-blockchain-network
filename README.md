@@ -1,4 +1,4 @@
-# Cryptocurrency blockchain network (Linux_Ex1)
+# Cryptocurrency blockchain network
 First Excercise in Linux Embeded course
 
 ## **Purpose:**
